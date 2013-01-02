@@ -3,6 +3,6 @@
 
 Suandi AWS
 
-Wordpress Plugin for fetch content from Amazon using Amazon Product Advertising API
+Wordpress Plugin for fetching content from Amazon using Amazon Product Advertising API
 
 Thanks to Sameer Borate [http://www.codediesel.com] who create Class to access Amazons Product Advertising API.
